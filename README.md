@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Adoption-Analytics"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Adoption-Analytics?style=flat-square" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Adoption-Analytics"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Adoption-Analytics?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Adoption-Analytics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Adoption-Analytics?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Adoption-Analytics/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Adoption-Analytics?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -54,9 +54,9 @@ The table below details leading commercial platforms for tracking AI tool adopti
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source tools, solution accelerators, and Power BI dashboards, sorted by **GitHub Star Count (Descending)**: 🌟
+Curated open-source tools, solution accelerators, and Power BI dashboards, sorted by **GitHub Stars_Count (Descending)**: 🌟
 
-| Project & Repository 📦 | GitHub Stars ⭐ | Primary Purpose & Features ⚡ |
+| Project & Repository 📦 | GitHub_Stars ⭐ | Primary Purpose & Features ⚡ |
 | :--- | :--- | :--- |
 | **[Arize Phoenix](https://github.com/arize-ai/phoenix)** | [<img src="https://img.shields.io/github/stars/arize-ai/phoenix?style=social&color=white" alt="Arize Phoenix Stars"/>](https://github.com/arize-ai/phoenix/stargazers) | Open-source AI observability platform for tracing, evaluation, usage analytics, and LLM application monitoring. 🔍 |
 | **[OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector)** | [<img src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white" alt="OpenTelemetry Collector Stars"/>](https://github.com/open-telemetry/opentelemetry-collector/stargazers) | Vendor-agnostic proxy to receive, process, and export AI agent telemetry, LLM usage metrics, and audit logs. 📡 |
